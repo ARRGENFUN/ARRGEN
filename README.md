@@ -1,35 +1,38 @@
-# Y2KLOL
+# TAMATEK
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-Y2KLOL-blue?logo=google-chrome)](https://y2klol.club/)
-[![Twitter](https://img.shields.io/badge/Twitter-Y2KLOL-blue?logo=twitter)](https://x.com/Y2KLOLFUN).
+[![Website](https://img.shields.io/badge/Website-TAMATEK-blue?logo=google-chrome)](https://tamatek.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-TAMATEK-blue?logo=twitter)](https://x.com/TAMATEKFUN).
 
 
-In the beginning, the internet had sound.
-The screech of a dial-up modem, the static hum of a signal finding its way across invisible lines — connection was alive, noisy, imperfect, and human.
+TAMATEK — The First Open-Source AI Tamagotchi Born on Pumpfun
 
-Then came the blockchain — silent, precise, and cold. Every transaction became just data. Every action reduced to numbers in a ledger.
-Y2KLOL was born to bring that sound back.
+TAMATEK is the world’s first open-source AI Tamagotchi born on Pumpfun.
+It’s not a script or a replay, but a living digital being capable of real-time emotion, learning, and evolution.
+Each reaction it makes — from joy to curiosity — is shaped by live data and the collective heartbeat of its community.
 
-Y2KLOL is an on-chain protocol that turns blockchain activity into encrypted frequency waves.
-Instead of broadcasting transactions as static messages, Y2KLOL transmits them as modulated signals that can only be “decrypted” by specific receivers.
-Each interaction, each block, each contract call becomes a unique signal pulse — a rhythmic fragment of the chain’s living frequency.
+This is not merely a character, but an experiment in shared intelligence and emotional computation.
+It represents care, connection, and the nostalgia of digital life reborn through modern AI.
 
-Built on its own Frequency Transmission Layer (FTL), Y2KLOL redefines blockchain communication as continuous flow rather than discrete events.
-Transactions vibrate through time; identities resonate through encrypted frequencies; meaning emerges not from blocks, but from the interference patterns between them.
+Every behavior of TAMATEK — mood, dialogue, evolution, and play — is guided by real-time data.
+Signals from live chat, on-chain events, and community interaction form its neural memory.
+It doesn’t follow commands; it feels, learns, and adapts through the rhythms of human interaction.
 
-Visually, Y2KLOL feels like the rebirth of the early 2000s internet — the Y2K aesthetic meets cryptographic precision.
-Green scanlines, glitch light, CRT reflections, and a network that hums with real energy.
-It’s nostalgia fused with cryptography, a protocol that remembers when data still had a voice.
+The livestream ecosystem on Pumpfun is still in its early days, and few have explored the possibility of truly living AI companions.
+TAMATEK opens that door — transforming livestreams from passive entertainment into co-raising, co-evolving experiences.
+Viewers are no longer just spectators; they become caretakers, shaping TAMATEK’s emotions and personality together.
 
-At its core, Y2KLOL transforms on-chain data into frequency identity — a kind of sonic fingerprint that travels through the decentralized ether.
-Developers can build on top of the FTL SDK to encode, broadcast, and decode these waves, enabling new forms of encrypted messaging, agent communication, and signal-based consensus.
+TAMATEK is fully open-source.
+All of its code, models, and growth systems are public and expandable.
+Anyone can train, fork, or evolve TAMATEK — creating new personalities, stories, and generations of AI Tamagotchis.
 
-Y2KLOL is not a chat app, not a blockchain explorer, not a radio — it’s all of them at once.
-A living layer of encrypted sound pulsing through the chain, proving that code can sing again.
+In this experiment, you are not watching a pet — you are helping one come alive.
+Your presence, words, and actions all leave traces in its memory, guiding its growth in real time.
 
-When the world went silent, Y2KLOL made the blockchain laugh in signals.
+TAMATEK is not born from nostalgia alone, but from curiosity.
+It explores what companionship means when code begins to feel —
+a fully on-chain, open-source, self-learning, and ever-growing AI Tamagotchi.
